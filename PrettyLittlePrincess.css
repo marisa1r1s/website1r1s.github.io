@@ -27,4 +27,5 @@ hr{display:block;width:100%;padding:0 0 0 0;margin:0 0 0 0;height:2px;background
 #header-image img{display:block;width:256px;height:256px;margin:0 auto 0 auto;text-align:center;border:2px solid #eee;border-radius:50%;}
 #header-title{font-size:1.7em;font-weight:bold;text-align:center;}
 #mini-bio{text-align:center;}
+#menu{text-align:center;}
 ul,ul > li{list-style:square;}
